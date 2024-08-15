@@ -20,6 +20,7 @@ locales:
   error_no_claiming_permission: '[錯誤：](#ff3300) [您沒有權限建立或編輯領地。](#ff7e5e)'
   error_no_claims_made: '[錯誤：](#ff3300) [%1% 尚未建立任何領地。](#ff7e5e)'
   error_no_admin_claims_made: '[錯誤：](#ff3300) [尚未建立任何管理員領地。](#ff7e5e)'
+  error_over_claim_blocks: '[錯誤:](#ff3300) [您不能購買那麽多領地方塊](#ff7e5e)'
   error_restrict_not_child: '[錯誤：](#ff3300) [您沒有站在子領地中。](#ff7e5e)\n[站在一個子領地中，然後使用](gray) [/restrictclaim](gray italic show_text=&7點選以建議指令 suggest_command=/restrictclaim) [來限制從該子領地的父領地繼承信任權限。](gray)'
   error_parent_claim_deleted: '[錯誤：](#ff3300) [您正在調整大小的子領地的父領地已被刪除。](#ff7e5e)'
   error_claim_deleted: '[錯誤：](#ff3300) [您正在調整大小的領地已被刪除。](#ff7e5e)'
